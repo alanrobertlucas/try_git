@@ -17,3 +17,7 @@ Test
 * [x] TASK1
 * [ ] task2
 
+:thumbsup:
+
+$$f(x) = x * e^{2 pi i \xi x}$$
+
